@@ -1,0 +1,14 @@
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\15-04-day3\Problem1_BirthdayCakeCandles\Problem1_BirthdayCakeCandles\bin\Debug\net8.0\Problem1_BirthdayCakeCandles.exe
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\15-04-day3\Problem1_BirthdayCakeCandles\Problem1_BirthdayCakeCandles\bin\Debug\net8.0\Problem1_BirthdayCakeCandles.deps.json
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\15-04-day3\Problem1_BirthdayCakeCandles\Problem1_BirthdayCakeCandles\bin\Debug\net8.0\Problem1_BirthdayCakeCandles.runtimeconfig.json
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\15-04-day3\Problem1_BirthdayCakeCandles\Problem1_BirthdayCakeCandles\bin\Debug\net8.0\Problem1_BirthdayCakeCandles.dll
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\15-04-day3\Problem1_BirthdayCakeCandles\Problem1_BirthdayCakeCandles\bin\Debug\net8.0\Problem1_BirthdayCakeCandles.pdb
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\15-04-day3\Problem1_BirthdayCakeCandles\Problem1_BirthdayCakeCandles\obj\Debug\net8.0\Problem1_BirthdayCakeCandles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\15-04-day3\Problem1_BirthdayCakeCandles\Problem1_BirthdayCakeCandles\obj\Debug\net8.0\Problem1_BirthdayCakeCandles.AssemblyInfoInputs.cache
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\15-04-day3\Problem1_BirthdayCakeCandles\Problem1_BirthdayCakeCandles\obj\Debug\net8.0\Problem1_BirthdayCakeCandles.AssemblyInfo.cs
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\15-04-day3\Problem1_BirthdayCakeCandles\Problem1_BirthdayCakeCandles\obj\Debug\net8.0\Problem1_BirthdayCakeCandles.csproj.CoreCompileInputs.cache
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\15-04-day3\Problem1_BirthdayCakeCandles\Problem1_BirthdayCakeCandles\obj\Debug\net8.0\Problem1_BirthdayCakeCandles.dll
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\15-04-day3\Problem1_BirthdayCakeCandles\Problem1_BirthdayCakeCandles\obj\Debug\net8.0\refint\Problem1_BirthdayCakeCandles.dll
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\15-04-day3\Problem1_BirthdayCakeCandles\Problem1_BirthdayCakeCandles\obj\Debug\net8.0\Problem1_BirthdayCakeCandles.pdb
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\15-04-day3\Problem1_BirthdayCakeCandles\Problem1_BirthdayCakeCandles\obj\Debug\net8.0\Problem1_BirthdayCakeCandles.genruntimeconfig.cache
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\15-04-day3\Problem1_BirthdayCakeCandles\Problem1_BirthdayCakeCandles\obj\Debug\net8.0\ref\Problem1_BirthdayCakeCandles.dll

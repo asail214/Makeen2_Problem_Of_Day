@@ -1,0 +1,14 @@
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem3_NumberTriangle\Problem3_NumberTriangle\bin\Debug\net8.0\Problem3_NumberTriangle.exe
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem3_NumberTriangle\Problem3_NumberTriangle\bin\Debug\net8.0\Problem3_NumberTriangle.deps.json
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem3_NumberTriangle\Problem3_NumberTriangle\bin\Debug\net8.0\Problem3_NumberTriangle.runtimeconfig.json
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem3_NumberTriangle\Problem3_NumberTriangle\bin\Debug\net8.0\Problem3_NumberTriangle.dll
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem3_NumberTriangle\Problem3_NumberTriangle\bin\Debug\net8.0\Problem3_NumberTriangle.pdb
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem3_NumberTriangle\Problem3_NumberTriangle\obj\Debug\net8.0\Problem3_NumberTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem3_NumberTriangle\Problem3_NumberTriangle\obj\Debug\net8.0\Problem3_NumberTriangle.AssemblyInfoInputs.cache
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem3_NumberTriangle\Problem3_NumberTriangle\obj\Debug\net8.0\Problem3_NumberTriangle.AssemblyInfo.cs
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem3_NumberTriangle\Problem3_NumberTriangle\obj\Debug\net8.0\Problem3_NumberTriangle.csproj.CoreCompileInputs.cache
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem3_NumberTriangle\Problem3_NumberTriangle\obj\Debug\net8.0\Problem3_NumberTriangle.dll
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem3_NumberTriangle\Problem3_NumberTriangle\obj\Debug\net8.0\refint\Problem3_NumberTriangle.dll
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem3_NumberTriangle\Problem3_NumberTriangle\obj\Debug\net8.0\Problem3_NumberTriangle.pdb
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem3_NumberTriangle\Problem3_NumberTriangle\obj\Debug\net8.0\Problem3_NumberTriangle.genruntimeconfig.cache
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem3_NumberTriangle\Problem3_NumberTriangle\obj\Debug\net8.0\ref\Problem3_NumberTriangle.dll

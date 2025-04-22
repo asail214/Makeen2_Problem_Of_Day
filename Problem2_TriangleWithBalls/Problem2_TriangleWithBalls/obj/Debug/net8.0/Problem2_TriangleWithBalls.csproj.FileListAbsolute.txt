@@ -1,0 +1,14 @@
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem2_TriangleWithBalls\Problem2_TriangleWithBalls\bin\Debug\net8.0\Problem2_TriangleWithBalls.exe
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem2_TriangleWithBalls\Problem2_TriangleWithBalls\bin\Debug\net8.0\Problem2_TriangleWithBalls.deps.json
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem2_TriangleWithBalls\Problem2_TriangleWithBalls\bin\Debug\net8.0\Problem2_TriangleWithBalls.runtimeconfig.json
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem2_TriangleWithBalls\Problem2_TriangleWithBalls\bin\Debug\net8.0\Problem2_TriangleWithBalls.dll
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem2_TriangleWithBalls\Problem2_TriangleWithBalls\bin\Debug\net8.0\Problem2_TriangleWithBalls.pdb
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem2_TriangleWithBalls\Problem2_TriangleWithBalls\obj\Debug\net8.0\Problem2_TriangleWithBalls.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem2_TriangleWithBalls\Problem2_TriangleWithBalls\obj\Debug\net8.0\Problem2_TriangleWithBalls.AssemblyInfoInputs.cache
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem2_TriangleWithBalls\Problem2_TriangleWithBalls\obj\Debug\net8.0\Problem2_TriangleWithBalls.AssemblyInfo.cs
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem2_TriangleWithBalls\Problem2_TriangleWithBalls\obj\Debug\net8.0\Problem2_TriangleWithBalls.csproj.CoreCompileInputs.cache
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem2_TriangleWithBalls\Problem2_TriangleWithBalls\obj\Debug\net8.0\Problem2_TriangleWithBalls.dll
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem2_TriangleWithBalls\Problem2_TriangleWithBalls\obj\Debug\net8.0\refint\Problem2_TriangleWithBalls.dll
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem2_TriangleWithBalls\Problem2_TriangleWithBalls\obj\Debug\net8.0\Problem2_TriangleWithBalls.pdb
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem2_TriangleWithBalls\Problem2_TriangleWithBalls\obj\Debug\net8.0\Problem2_TriangleWithBalls.genruntimeconfig.cache
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem2_TriangleWithBalls\Problem2_TriangleWithBalls\obj\Debug\net8.0\ref\Problem2_TriangleWithBalls.dll

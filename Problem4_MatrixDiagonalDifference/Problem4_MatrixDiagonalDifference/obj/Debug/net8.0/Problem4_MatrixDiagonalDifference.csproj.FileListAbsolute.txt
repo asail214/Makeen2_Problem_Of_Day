@@ -1,0 +1,14 @@
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem4_MatrixDiagonalDifference\Problem4_MatrixDiagonalDifference\bin\Debug\net8.0\Problem4_MatrixDiagonalDifference.exe
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem4_MatrixDiagonalDifference\Problem4_MatrixDiagonalDifference\bin\Debug\net8.0\Problem4_MatrixDiagonalDifference.deps.json
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem4_MatrixDiagonalDifference\Problem4_MatrixDiagonalDifference\bin\Debug\net8.0\Problem4_MatrixDiagonalDifference.runtimeconfig.json
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem4_MatrixDiagonalDifference\Problem4_MatrixDiagonalDifference\bin\Debug\net8.0\Problem4_MatrixDiagonalDifference.dll
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem4_MatrixDiagonalDifference\Problem4_MatrixDiagonalDifference\bin\Debug\net8.0\Problem4_MatrixDiagonalDifference.pdb
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem4_MatrixDiagonalDifference\Problem4_MatrixDiagonalDifference\obj\Debug\net8.0\Problem4_MatrixDiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem4_MatrixDiagonalDifference\Problem4_MatrixDiagonalDifference\obj\Debug\net8.0\Problem4_MatrixDiagonalDifference.AssemblyInfoInputs.cache
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem4_MatrixDiagonalDifference\Problem4_MatrixDiagonalDifference\obj\Debug\net8.0\Problem4_MatrixDiagonalDifference.AssemblyInfo.cs
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem4_MatrixDiagonalDifference\Problem4_MatrixDiagonalDifference\obj\Debug\net8.0\Problem4_MatrixDiagonalDifference.csproj.CoreCompileInputs.cache
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem4_MatrixDiagonalDifference\Problem4_MatrixDiagonalDifference\obj\Debug\net8.0\Problem4_MatrixDiagonalDifference.dll
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem4_MatrixDiagonalDifference\Problem4_MatrixDiagonalDifference\obj\Debug\net8.0\refint\Problem4_MatrixDiagonalDifference.dll
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem4_MatrixDiagonalDifference\Problem4_MatrixDiagonalDifference\obj\Debug\net8.0\Problem4_MatrixDiagonalDifference.pdb
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem4_MatrixDiagonalDifference\Problem4_MatrixDiagonalDifference\obj\Debug\net8.0\Problem4_MatrixDiagonalDifference.genruntimeconfig.cache
+D:\Work\Work 2025\4. معسكرات مكين للتدريب 2\Phase 4 - 4 monthes\C#\Problem4_MatrixDiagonalDifference\Problem4_MatrixDiagonalDifference\obj\Debug\net8.0\ref\Problem4_MatrixDiagonalDifference.dll

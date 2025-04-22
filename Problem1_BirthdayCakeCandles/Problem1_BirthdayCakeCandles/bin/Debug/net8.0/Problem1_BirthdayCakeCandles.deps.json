@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Problem1_BirthdayCakeCandles/1.0.0": {
+        "runtime": {
+          "Problem1_BirthdayCakeCandles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem1_BirthdayCakeCandles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

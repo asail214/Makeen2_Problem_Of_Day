@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Work 2025\\4. \u0645\u0639\u0633\u0643\u0631\u0627\u062A \u0645\u0643\u064A\u0646 \u0644\u0644\u062A\u062F\u0631\u064A\u0628 2\\Phase 4 - 4 monthes\\C#\\Problem3_NumberTriangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE2BB51-51F6-41F4-B465-C07865395FE7}|Problem3_NumberTriangle\\Problem3_NumberTriangle.csproj|d:\\work\\work 2025\\4. \u0645\u0639\u0633\u0643\u0631\u0627\u062A \u0645\u0643\u064A\u0646 \u0644\u0644\u062A\u062F\u0631\u064A\u0628 2\\phase 4 - 4 monthes\\c#\\problem3_numbertriangle\\problem3_numbertriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE2BB51-51F6-41F4-B465-C07865395FE7}|Problem3_NumberTriangle\\Problem3_NumberTriangle.csproj|solutionrelative:problem3_numbertriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. \u0645\u0639\u0633\u0643\u0631\u0627\u062A \u0645\u0643\u064A\u0646 \u0644\u0644\u062A\u062F\u0631\u064A\u0628 2\\Phase 4 - 4 monthes\\C#\\Problem3_NumberTriangle\\Problem3_NumberTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "Problem3_NumberTriangle\\Program.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. \u0645\u0639\u0633\u0643\u0631\u0627\u062A \u0645\u0643\u064A\u0646 \u0644\u0644\u062A\u062F\u0631\u064A\u0628 2\\Phase 4 - 4 monthes\\C#\\Problem3_NumberTriangle\\Problem3_NumberTriangle\\Program.cs",
+              "RelativeToolTip": "Problem3_NumberTriangle\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:31:37.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
